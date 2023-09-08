@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+/* .btn-add:hover{
+  color: #fff;
+  background-color: rgb(14, 14, 244);
+  border-radius: 5rem;
+  border: none;
+  transition: 0.7s;
+} */
+/* 
+body{
+  background-color: azure;
+}
+.name{
+  background-color: rgb(180, 228, 180);
+  border-radius: 5rem;
+  height: 2rem;
+  box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.75);
+  
+}
+
+.error {
+  color: rgb(247, 241, 241);
+  background: rgb(228, 128, 128);
+  font-size: 20px;
+  border-style: solid;
+  border-top: none;
+  border-bottom: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 15rem;
+}
+
+.success {
+  color: #fff;
+  background-color: rgb(117, 220, 117);
+  font-size: 20px;
+  border-style: solid;
+  border-top: none;
+  border-bottom: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 15rem;
+}
+
+
+.phone{
+  background-color: rgb(53, 235, 120);
+  color:#fff;
+  width:10rem;
+  padding-left: 2rem;
+  border-radius: 2rem;
+}
+
+.add-button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 3rem;
+}
+
+.delete-btn{
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 3rem;
+}
+
+.number{
+  background-color: rgb(180, 228, 180);
+  border-radius: 5rem;
+  height: 2rem;
+  box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.75);
+}
+
+.Phone-no{
+  font-size: 1.5rem;
+}
+
+.name-input{
+  font-size: 1.5rem;
+}
+
+.search{
+  background-color: #a5ee8a;
+  color: black;
+  border: none;
+  border-radius: 3rem;
+  height: 2rem;
+  width: 13rem;
+} */
